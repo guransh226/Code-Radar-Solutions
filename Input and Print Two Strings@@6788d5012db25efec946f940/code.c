@@ -4,7 +4,7 @@ int main() {
     char b[100];
 
     scanf("%s",&a);
-    scanf("s",&b);
+    scanf("%s",&b);
 
     printf("You entered: %s and",a);
     printf("%s",b);
